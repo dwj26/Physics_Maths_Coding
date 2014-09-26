@@ -1,0 +1,1 @@
+This is a folder containing a script to run the Newton Raphson method on a function to find the solution. One may wish to increase the number of iterations in the for loop, change the function and change the original lower and upper limits (in order to find a different solution).
